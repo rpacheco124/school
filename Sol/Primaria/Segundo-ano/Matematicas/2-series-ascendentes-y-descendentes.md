@@ -27,57 +27,64 @@ Completar series numéricas que suben o bajan.
 | Continúa la serie: 28 – 29 – 30 – __ | 31 |
 | Continúa la serie: 31 – 30 – 29 – __ | 28 |
 
-## Quiz: Series — rellenar huecos y respuesta corta
+## Quiz A: Completar la serie
 
-Descripción: Preguntas de rellenar huecos y respuesta corta para series ascendentes y descendentes.
+Descripción: Completa series numéricas que suben o bajan.
 
-**1. (Hueco) Completa la serie ascendente: 12 – 13 – 14 – ___**
-- Respuesta: `15` — La serie sube de 1 en 1: 14 + 1 = 15.
+**1. Completa la serie ascendente: 12 – 13 – 14 – \_\_\_**
+- Respuesta: 15 (teclado numérico, sin fichas)
+- Pista si se equivoca: Recuerda que en una serie ascendente cada número es 1 más que el anterior.
+- Explicación: La serie sube de 1 en 1: 14 + 1 = 15.
 
-**2. (Hueco) Completa la serie ascendente con cambio de decena: 18 – 19 – ___**
-- Respuesta: `20` — Después del 19 viene el 20; aquí cambia la decena.
+**2. Completa la serie ascendente con cambio de decena: 18 – 19 – \_\_\_**
+- Respuesta: 20 (teclado numérico, sin fichas)
+- Pista si se equivoca: Cuidado con el cambio de decena: después del 19 viene el 20, y antes del 20 viene el 19.
+- Explicación: Después del 19 viene el 20; aquí cambia la decena.
 
-**3. (Hueco) Completa la serie descendente: 25 – 24 – 23 – ___**
-- Respuesta: `22` — La serie baja de 1 en 1: 23 − 1 = 22.
+**3. Completa la serie descendente: 25 – 24 – 23 – \_\_\_**
+- Respuesta: 22 (teclado numérico, sin fichas)
+- Pista si se equivoca: Recuerda que en una serie descendente cada número es 1 menos que el anterior.
+- Explicación: La serie baja de 1 en 1: 23 − 1 = 22.
 
-**4. (Hueco) Completa la serie descendente: 20 – 19 – ___**
-- Respuesta: `18` — La serie baja de 1 en 1: 19 − 1 = 18.
+**4. Completa la serie descendente con cambio de decena: 20 – 19 – \_\_\_**
+- Respuesta: 18 (teclado numérico, sin fichas)
+- Pista si se equivoca: Recuerda que en una serie descendente cada número es 1 menos que el anterior. Cuidado con el cambio de decena: después del 20 viene el 19.
+- Explicación: La serie baja de 1 en 1: 19 − 1 = 18.
 
-**5. (Hueco) Completa la serie: 28 – 29 – 30 – ___**
-- Respuesta: `31` — Sube de 1 en 1: 30 + 1 = 31.
+**5. Completa la serie: 28 – 29 – 30 – \_\_\_**
+- Respuesta: 31 (teclado numérico, sin fichas)
+- Pista si se equivoca: Recuerda que en una serie ascendente cada número es 1 más que el anterior.
+- Explicación: Sube de 1 en 1: 30 + 1 = 31.
 
-**6. (Hueco) Completa la serie descendente con cambio de decena: 21 – 20 – ___**
-- Respuesta: `19` — Después del 20 viene el 19 al bajar.
+**6. Completa la serie descendente con cambio de decena: 21 – 20 – \_\_\_**
+- Respuesta: 19 (teclado numérico, sin fichas)
+- Pista si se equivoca: Recuerda que en una serie descendente cada número es 1 menos que el anterior. Cuidado con el cambio de decena: después del 20 viene el 19.
+- Explicación: Después del 20 viene el 19 al bajar.
 
-**7. (Respuesta corta) Escribe los dos números que faltan: 12 – 13 – 14 – __ – __**
-- Respuesta: `15 y 16` — Serie ascendente que sube de 1 en 1: 15 y 16.
+**7. Completa la serie descendente: 40 – 39 – 38 – \_\_\_ – \_\_\_**
+- Respuesta: 37 y 36 (teclado numérico, sin fichas)
+- Pista si se equivoca: Recuerda que en una serie descendente cada número es 1 menos que el anterior.
+- Explicación: La serie baja de 1 en 1: 37 y 36.
 
-**8. (Respuesta corta) Escribe los dos números que faltan: 40 – 39 – 38 – __ – __**
-- Respuesta: `37 y 36` — Serie descendente que baja de 1 en 1: 37 y 36.
+## Quiz B: Elegir el número que sigue
 
-## Quiz: Series ascendentes y descendentes
+Descripción: Continúa series numéricas y detecta los cambios de decena.
 
-Descripción: Continuar series numéricas y detectar cambios de decena.
+**1. Continúa la serie: 45 – 46 – 47 – \_\_\_**
+- 48 — ¡Sí! Es ascendente y suma 1. ✔
+- 46 — Ese número ya aparece en la serie.
+- 50 — Saltaría 2 números; la serie sube de 1 en 1.
 
-**1. Continúa la serie: 45 – 46 – 47 – ___**
-- 48 — Correcto: es ascendente y suma 1. ✔
-- 46 — Sería un número que se repite hacia atrás; la serie sube.
-- 50 — Habría que saltar 2; la serie solo sube de 1 en 1.
-
-**2. Continúa la serie: 32 – 31 – 30 – ___**
-- 29 — Correcto: desciende y resta 1. ✔
-- 31 — Ese número ya apareció; la serie baja.
+**2. Continúa la serie: 32 – 31 – 30 – \_\_\_**
+- 29 — ¡Sí! Desciende y resta 1. ✔
+- 31 — Ese número ya aparece en la serie.
 - 33 — Ese número es mayor; la serie baja.
 
-**3. Continúa con el cambio de decena: 19 – 20 – ___**
-- 21 — Correcto: la serie sube y cambia de decena. ✔
+**3. Continúa con el cambio de decena: 19 – 20 – \_\_\_**
+- 21 — ¡Sí! La serie sube y cambia de decena. ✔
 - 30 — Saltaría del 20 al 30; la serie sube de 1 en 1.
-- 19 — El 19 ya pasó; la serie sube.
+- 19 — Ese número ya aparece en la serie.
 
 **4. Verdadero o falso: En una serie descendente los números van aumentando.**
-- Falso ✔ — En una serie descendente los números van disminuyendo (se resta).
-
-**5. Completa la serie descendente: 40 – 39 – 38 – ___ – ___**
-- 37 y 36 — Correcto: resta 1 en cada paso. ✔
-- 39 y 40 — Esos números son mayores; la serie baja.
-- 37 y 38 — El segundo se repite; debe seguir bajando: 37 y 36.
+- Verdadero — En una serie descendente cada número es menor que el anterior, no mayor.
+- Falso ✔ — En una serie descendente los números van disminuyendo, porque se resta 1.
